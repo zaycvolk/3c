@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://img4.goodfon.ru/wallpaper/nbig/a/b1/aenami-artist-sorcerer-wizard-castle-fantasy-castle-landscap.jpg);
+}
+
+header {
+  background-color:Crimson;
+  padding: 40px 0px 40px 25px;
+}
+
+header a {
+  border: white 5px solid;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: LightPink;
+  font-size: 80px;
+  border: DeepPink 10px double;
+  border-radius: 10px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
